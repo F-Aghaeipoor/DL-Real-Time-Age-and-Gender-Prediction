@@ -8,5 +8,5 @@ UTKFace dataset is a large-scale face dataset with long age span (range from 0 t
 
 The model is working as follows: 
 
-![](https://github.com/F-Aghaeipoor/DL-Real-Time-Age-and-Gender-Prediction-on-UTKFace/blob/master/Mylogo.gif)
+![](https://github.com/F-Aghaeipoor/DL-Real-Time-Age-and-Gender-Prediction-on-UTKFace/blob/master/Mylogo.gif)</center>
 
